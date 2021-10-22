@@ -82,7 +82,7 @@
     .tab-text-02 {margin-top: 35px;}
     .professional-services {padding: 10px 0 !important;}
     .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {width: 89%;}
-    .fab.fa-algolia { height: 150px;}
+    .fab.fa-algolia { height: 155px;}
 }
 @media only screen and (max-width:388px){
     .fab.fa-algolia { height: 180px;}
