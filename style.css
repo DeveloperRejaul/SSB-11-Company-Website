@@ -74,8 +74,8 @@ img {
                 Header Menu bar CSS starts
 ****************************************************************/
 ul li a:hover {
-	background: #e83b3e;
-	border-radius: 10px;
+	background: #ff474726;
+	border-radius: 5px;
 }
 .dropdown-item.fs-5 {
 	border-radius: 0;
@@ -99,6 +99,12 @@ ul li a:hover {
 	padding: 3px;
 	font-size: 19px;
 	color: #00000094;
+}
+.logo-section {
+	padding: 10px;
+}
+.logo-section li {
+	padding: 0 10px;
 }
 .header-body .call-icon span i {
     background: red;
