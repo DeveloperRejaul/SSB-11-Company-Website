@@ -1,0 +1,140 @@
+@media only screen and (max-width:1200px) {
+    .header-body ul li a {padding: 10px 10px;}
+    .header-body a img {width: 135px;}
+    .header-body .call-icon span i {height: 30px;width: 30px;font-size: 20px;}
+    .btn-primary {padding: 5px 5px;}
+    .slider-content h1 {font-size: 35px;}
+}
+
+@media only screen and (max-width:992px) {
+    .header-body .inner-call, .header-body .headr-button, .header-body ul{display: none;}
+    .mobile-menu-icon {cursor: pointer;
+        display: flex;
+        justify-content: right;
+        position: absolute;
+        left: 93%;}
+    .mobile-menu-icon i{ font-size: 20px;}
+    .mobile-menu-icon:hover i { color: #e73c3f;}
+    .clain-logo img {width: 120px;}
+    .slider-content-wrep {height: 50vh;}
+    .discuse h3 {font-size: 28px;}
+    .company-values .discuse i {height: 65px;width: 65px;line-height: 65px;font-size: 41px;}
+    .discuse .call-line h3{display: block;}
+    .discuse .call-line h3::before {left: 37px;top: 3px;height: 59px;}
+    #cros-icon{
+        display: block;
+    }
+    .row.inner-slider {padding: 75px 0;}
+    .sosial-icone.position-absolute.clearfix {
+        bottom: -67px;
+        left: 0;
+    }
+
+}
+@media only screen and (max-width:768px){
+    .clain-logo img { width: 100px;}
+    #pills-tab { width: 100%;}
+    #pills-tab li {width: 50%;}
+    .com-text-02 i { height: 117px;}
+}
+@media only screen and (max-width:576px){
+    .company-values .discuse i {height: 50px;width: 50px; line-height: 50px;font-size: 36px;}
+    .discuse .call-line h3 {font-size: 25px;}
+    .discuse h3 {font-size: 24px;}
+    .discuse .call-line h3::before {left: 41px;top: 4px;height: 47px;}
+    .foooter { padding-top: 20px;padding-bottom: 7px;}
+    .single-footer-widget p { font-size: 15px;}
+    .single-footer-widget ul li b {font-size: 15px;}
+    .footer-02 h3 {font-size: 18px;}
+    .single-footer-widget ul li a i { font-size: 15px;}
+    .single-footer-widget ul li a {font-size: 16px;}
+    .footer-02 .contact span {font-size: 15px;}
+    .footer-02 .contact i {font-size: 20px;left: -28px;}
+    .footer-02 .contact a {font-size: 15px;}
+    .copy-right-aria p { font-size: 15px;padding-top: 15px;margin-top: 0px;}
+    .slider-content h1 {font-size: 27px;}
+    .sosial-icone ul li span {margin-right: 35px;}
+    .clain-logo img {padding: 0 5px;}
+    h1 {font-size: 25px;}
+    .btn.btn-primary {margin-top: 5px;margin-bottom: 5px;}
+    .company-values .discuse i {height: 46px;font-size: 32px;}
+    .com-text-02 i {height: 180px;}
+    .tab-text-02 {margin-top: 10px;}
+    .finix-text.text-center.w-75.m-auto.py-5 {padding: 13px 0 !important;}
+    #pills-tab {padding: 30px 0 !important;}
+    .professional-services {padding: 30px 0 !important;}
+    .clients-say.py-5 { padding: 20px 0 !important;}
+    .finix-text.py-5.text-center.m-auto {padding: 0px 0 !important;}
+    .clients-say .claint-info-text p {font-size: 18px;}
+    .Teame-section.py-5 {padding: 20px 0 !important;}
+    .col-lg-3.col-md-6.col-sm-12.text-center {padding: 20px 0;}
+    .slider-content-wrep {height: 70vh;}
+    .com-text-02 i {height: 150px;}
+    .respon {
+        max-width: 455px;
+        margin: 0 auto;
+    }
+    .woy-shuse-us.py-5 {
+        padding-top: 0px !important;
+    }
+    .professional-services h2 {
+        font-size: 20px;
+    }
+    .woy-shuse-us .col-lg-6 {
+        padding-bottom: 40px;
+    }
+
+}
+@media only screen and (max-width:476px){
+    .respon {
+        max-width: 330px;
+    }
+    .finix-text {
+        margin-top: 25px;
+    }
+    .stype-timeline ul::before {
+        height: calc(100% - 30px );
+    }
+    .company-values .discuse i {
+        font-size: 20px;
+    }
+    .discuse .call-line h3 {
+        font-size: 15px;
+    }
+    .discuse h3 {
+        font-size: 18px;
+    }
+    .company-values .discuse {
+        padding: 25px 0px;
+    }
+    .com-text h2 {
+        padding: 8px 0px !important;
+        text-align: center;
+    }
+    .com-text h4 {
+        font-size: 20px;
+    }
+    .com-text-02 i {
+        height: 200px;
+    }
+    .professional-services .sevies-tab ul li a.active::after {
+        width: 100%;
+        left: 0px;
+    }
+    #pills-tab li {
+        width: 100%;
+    }
+    .tab-text-02 {
+        margin-top: 35px;
+    }
+    .professional-services {
+        padding: 10px 0 !important;
+    }
+}
+
+
+
+
+
+
+
