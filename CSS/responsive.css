@@ -28,7 +28,7 @@
     #pills-tab li {width: 50%;}
     .com-text-02 i { height: 117px;}
 }
-@media only screen and (max-width:576px){
+@media only screen and (max-width:578px){
     .company-values .discuse i {height: 50px;width: 50px; line-height: 50px;font-size: 36px;}
     .discuse .call-line h3 {font-size: 25px;}
     .discuse h3 {font-size: 24px;}
