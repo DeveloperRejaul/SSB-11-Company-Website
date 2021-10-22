@@ -8,11 +8,7 @@
 
 @media only screen and (max-width:992px) {
     .header-body .inner-call, .header-body .headr-button, .header-body ul{display: none;}
-    .mobile-menu-icon {cursor: pointer;
-        display: flex;
-        justify-content: right;
-        position: absolute;
-        left: 93%;}
+    .mobile-menu-icon {cursor: pointer;display: flex;justify-content: right;position: absolute;left: 93%;}
     .mobile-menu-icon i{ font-size: 20px;}
     .mobile-menu-icon:hover i { color: #e73c3f;}
     .clain-logo img {width: 120px;}
@@ -21,14 +17,9 @@
     .company-values .discuse i {height: 65px;width: 65px;line-height: 65px;font-size: 41px;}
     .discuse .call-line h3{display: block;}
     .discuse .call-line h3::before {left: 37px;top: 3px;height: 59px;}
-    #cros-icon{
-        display: block;
-    }
+    #cros-icon{display: block;}
     .row.inner-slider {padding: 75px 0;}
-    .sosial-icone.position-absolute.clearfix {
-        bottom: -67px;
-        left: 0;
-    }
+    .sosial-icone.position-absolute.clearfix { bottom: -67px;left: 0;}
 
 }
 @media only screen and (max-width:768px){
@@ -58,7 +49,6 @@
     h1 {font-size: 25px;}
     .btn.btn-primary {margin-top: 5px;margin-bottom: 5px;}
     .company-values .discuse i {height: 46px;font-size: 32px;}
-    .com-text-02 i {height: 180px;}
     .tab-text-02 {margin-top: 10px;}
     .finix-text.text-center.w-75.m-auto.py-5 {padding: 13px 0 !important;}
     #pills-tab {padding: 30px 0 !important;}
@@ -70,71 +60,35 @@
     .col-lg-3.col-md-6.col-sm-12.text-center {padding: 20px 0;}
     .slider-content-wrep {height: 70vh;}
     .com-text-02 i {height: 150px;}
-    .respon {
-        max-width: 455px;
-        margin: 0 auto;
-    }
-    .woy-shuse-us.py-5 {
-        padding-top: 0px !important;
-    }
-    .professional-services h2 {
-        font-size: 20px;
-    }
-    .woy-shuse-us .col-lg-6 {
-        padding-bottom: 40px;
-    }
-
+    .woy-shuse-us.py-5 {padding-top: 0px !important;}
+    .professional-services h2 {font-size: 20px;}
+    .woy-shuse-us .col-lg-6 {padding-bottom: 40px;}
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {width: 92%;}
+    .finix-text.text-center .fw-bold {font-size: 20px;}
+    .fab.fa-algolia {height: 144px;}
 }
 @media only screen and (max-width:476px){
-    .respon {
-        max-width: 330px;
-    }
-    .finix-text {
-        margin-top: 25px;
-    }
-    .stype-timeline ul::before {
-        height: calc(100% - 30px );
-    }
-    .company-values .discuse i {
-        font-size: 20px;
-    }
-    .discuse .call-line h3 {
-        font-size: 15px;
-    }
-    .discuse h3 {
-        font-size: 18px;
-    }
-    .company-values .discuse {
-        padding: 25px 0px;
-    }
-    .com-text h2 {
-        padding: 8px 0px !important;
-        text-align: center;
-    }
-    .com-text h4 {
-        font-size: 20px;
-    }
-    .com-text-02 i {
-        height: 200px;
-    }
-    .professional-services .sevies-tab ul li a.active::after {
-        width: 100%;
-        left: 0px;
-    }
-    #pills-tab li {
-        width: 100%;
-    }
-    .tab-text-02 {
-        margin-top: 35px;
-    }
-    .professional-services {
-        padding: 10px 0 !important;
-    }
+    .finix-text { margin-top: 25px;}
+    .stype-timeline ul::before {height: calc(100% - 30px );}
+    .company-values .discuse i {font-size: 20px;}
+    .discuse .call-line h3 { font-size: 15px;}
+    .discuse h3 {font-size: 18px;}
+    .company-values .discuse {padding: 25px 0px;}
+    .com-text h2 {padding: 8px 0px !important; text-align: center;}
+    .com-text h4 {font-size: 20px;}
+    .com-text-02 i {height: 200px;}
+    .professional-services .sevies-tab ul li a.active::after {width: 100%;left: 0px;}
+    #pills-tab li {width: 100%;}
+    .tab-text-02 {margin-top: 35px;}
+    .professional-services {padding: 10px 0 !important;}
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {width: 89%;}
+    .fab.fa-algolia { height: 150px;}
 }
-
-
-
-
-
-
-
+@media only screen and (max-width:388px){
+    .fab.fa-algolia { height: 180px;}
+}
+@media only screen and (max-width:370px){
+    .com-text h4 { font-size: 17px;}
+    .fab.fa-algolia {height: 186px;}
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {width: 88%;}
+}
